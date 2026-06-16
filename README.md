@@ -1,20 +1,14 @@
-# 🦞 ClawForge — Hermes Agent × NVIDIA × Stripe Hackathon Entry
+# 🩺 MediClaw - Hermes + NVIDIA + Stripe Hackathon Entry
 
-**The Autonomous AI Startup CEO**
+**Autonomous AI Operations Agent for Medical Practices & Legacy Private Businesses**
 
-One prompt → researches, spends money via Stripe, provisions infra, launches product, earns revenue, reinvests.
+Helps old-fashioned clinics and small businesses catch up to 2026 by automating procurement, payments, billing, and operations. One agent deploys modern capabilities safely.
 
-## Tech Stack
-- **Hermes Agent** (core + self-improving skills)
-- **NemoClaw** (safe sandboxed operations)
-- **Nemotron 3 Ultra** (planning & orchestration)
-- **Stripe Skills** (provision + payments + products)
+**Target**: Doctors offices, dental clinics, family practices in LA and beyond who struggle with admin overload and outdated payment systems.
 
-## Quickstart
-1. Clone & `pip install -r requirements.txt`
-2. Setup .env
-3. `python run_clawforge.py`
+## Why it wins
+- Solves real pain: Staff burnout from paperwork/purchasing
+- Uses Stripe to upgrade 'ability to pay/receive for things'
+- NemoClaw ensures HIPAA-adjacent safety
 
-Built for https://x.com/NousResearch/status/2066921443548348436
-
-⭐ Star if you're building the agent economy!
+Clone & run to demo!
