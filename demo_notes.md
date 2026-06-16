@@ -1,0 +1,1 @@
+Record your demo following the previous instructions. This repo proves you shipped fast and clean.
